@@ -1,0 +1,25 @@
+.header {
+    padding: 60px;
+    background-color: rgb(161, 92, 92);
+    display: flex;
+  }
+
+  .main-nav {
+      justify-content: left;
+      font-size: 10px;
+      color: rgb(0, 0, 0);
+  }
+
+  .kiisud {
+      align-items: flex-start;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(90, 135, 156);
+    color: rgb(3, 1, 1);
+    text-align: center;
+  }
